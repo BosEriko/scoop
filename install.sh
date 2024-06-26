@@ -7,8 +7,8 @@ scoop bucket add main
 # Install Applications
 scoop install obsidian                  # Obsidian
 scoop install keepassxc                 # KeePassXC
-scoop install powertoys                 # PowerToys
 scoop install glazewm                   # GlazeWM
 
 # Install Extras
 scoop install extras/vscode             # Visual Studio Code
+scoop install extras/powertoys          # PowerToys
