@@ -5,6 +5,7 @@ scoop bucket add extras
 scoop bucket add main
 
 # Install Applications
+scoop install git                       # Git
 scoop install extras/obsidian           # Obsidian
 scoop install extras/keepassxc          # KeePassXC
 
