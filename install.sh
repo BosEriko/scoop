@@ -5,15 +5,14 @@ scoop bucket add extras
 scoop bucket add main
 
 # Install Work Tools
-scoop install git                       # Git (Version Control)
-scoop install extras/glazewm            # GlazeWM (Window Manager)
-scoop install extras/vscode             # Visual Studio Code (Editor & Terminal)
-scoop install extras/powertoys          # PowerToys (Utilities)
+scoop install git                       # Git
+scoop install extras/glazewm            # GlazeWM (https://github.com/BosEriko/glaze)
+scoop install extras/vscode             # Visual Studio Code (https://github.com/BosEriko/vs)
+scoop install extras/powertoys          # PowerToys (https://github.com/BosEriko/powertoys)
 
 # Install Utilities
-scoop install extras/obsidian           # Obsidian (Notes)
-scoop install extras/keepassxc          # KeePassXC (Password Manager)
+scoop install extras/obsidian           # Obsidian (https://github.com/BosEriko/obsidian)
+scoop install extras/keepassxc          # KeePassXC (https://github.com/BosEriko/password)
 
 # Install Stream Tools
-scoop install extras/keyviz             # Keyviz (Show Key Strokes)
-scoop install extras/obs-studio         # OBS (Stream)
+scoop install extras/obs-studio         # OBS (https://github.com/BosEriko/obs)
