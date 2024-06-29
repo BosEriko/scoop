@@ -15,5 +15,5 @@ scoop install extras/obsidian           # Obsidian (Notes)
 scoop install extras/keepassxc          # KeePassXC (Password Manager)
 
 # Install Stream Tools
-scoop install extras/carnac             # Carnac (Show Key Strokes)
+scoop install extras/keyviz             # Keyviz (Show Key Strokes)
 scoop install extras/obs-studio         # OBS (Stream)
