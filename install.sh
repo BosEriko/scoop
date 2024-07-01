@@ -18,7 +18,7 @@ scoop install extras/powertoys          # PowerToys (https://github.com/BosEriko
 scoop install extras/obsidian           # Obsidian (https://github.com/BosEriko/obsidian)
 scoop install extras/keepassxc          # KeePassXC (https://github.com/BosEriko/password)
 scoop install extras/vivaldi            # Vivaldi (https://github.com/BosEriko/vivaldi)
-scoop install extras/spotify            # Spotify (https://github.com/BosEriko/spotify)
+scoop install extras/youtube-music      # YouTube Music
 
 # Install Stream Tools
 scoop install extras/obs-studio         # OBS (https://github.com/BosEriko/obs)
