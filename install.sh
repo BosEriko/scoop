@@ -27,3 +27,4 @@ scoop install extras/obs-studio             # OBS (https://github.com/BosEriko/o
 # Entertainment
 scoop install versions/steam                # Steam
 scoop install games/epic-games-launcher     # Epic Games
+scoop install extras/vlc                    # VLC
