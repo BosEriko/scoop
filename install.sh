@@ -9,6 +9,7 @@ scoop bucket add games
 
 # Install Font
 scoop install nerd-fonts/JetBrainsMono-NF-Mono
+scoop install nerd-fonts/FiraCode
 
 # Install Work Tools
 scoop install git                           # Git
