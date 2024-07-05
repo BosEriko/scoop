@@ -20,7 +20,6 @@ scoop install extras/powertoys              # PowerToys (https://github.com/BosE
 
 # Install Utilities
 scoop install extras/obsidian               # Obsidian (https://github.com/BosEriko/obsidian)
-scoop install extras/keepassxc              # KeePassXC (https://github.com/BosEriko/password)
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
 scoop install nonportable/protonvpn-np      # Proton VPN
 
