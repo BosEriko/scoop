@@ -1,11 +1,12 @@
 #!/bin/bash
 
-# Add dependencies
+# Add buckets
 scoop bucket add extras
 scoop bucket add main
 scoop bucket add nerd-fonts
 scoop bucket add versions
 scoop bucket add games
+scoop bucket add nonportable
 
 # Install Font
 scoop install nerd-fonts/JetBrainsMono-NF-Mono
@@ -21,6 +22,7 @@ scoop install extras/powertoys              # PowerToys (https://github.com/BosE
 scoop install extras/obsidian               # Obsidian (https://github.com/BosEriko/obsidian)
 scoop install extras/keepassxc              # KeePassXC (https://github.com/BosEriko/password)
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
+scoop install nonportable/protonvpn-np      # Proton VPN
 
 # Game Development Tools
 scoop install extras/blender                # Blender
