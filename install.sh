@@ -19,7 +19,7 @@ scoop install extras/vscode                 # Visual Studio Code (https://github
 scoop install extras/powertoys              # PowerToys (https://github.com/BosEriko/powertoys)
 
 # Install Utilities
-scoop install extras/obsidian               # Obsidian (https://github.com/BosEriko/obsidian)
+scoop install extras/notion                 # Notion
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
 scoop install nonportable/protonvpn-np      # Proton VPN
 
