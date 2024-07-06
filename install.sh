@@ -29,7 +29,7 @@ scoop install extras/godot                  # Godot
 
 # Install Stream Tools
 scoop install extras/obs-studio             # OBS (https://github.com/BosEriko/obs)
-scoop install extras/chatty                 # Chatty (https://chatty.github.io)
+scoop install extras/chatty                 # Chatty (https://github.com/BosEriko/vivaldi)
 
 # Entertainment
 scoop install versions/steam                # Steam
