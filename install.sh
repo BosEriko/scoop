@@ -36,3 +36,4 @@ scoop install versions/steam                # Steam
 scoop install games/epic-games-launcher     # Epic Games
 scoop install extras/vlc                    # VLC
 scoop install extras/discord                # Discord
+scoop install extras/youtube-music          # YouTube Music (https://github.com/BosEriko/youtube-music)
