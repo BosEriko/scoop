@@ -17,6 +17,7 @@ scoop install git                           # Git
 scoop install extras/glazewm                # GlazeWM (https://github.com/BosEriko/glaze)
 scoop install extras/vscode                 # Visual Studio Code (https://github.com/BosEriko/vs)
 scoop install extras/powertoys              # PowerToys (https://github.com/BosEriko/powertoys)
+scoop install extras/flow-launcher          # Flow Launcher
 
 # Install Utilities
 scoop install extras/notion                 # Notion
