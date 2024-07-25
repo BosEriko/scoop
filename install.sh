@@ -23,6 +23,7 @@ scoop install extras/switcheroo             # Switcheroo (https://github.com/Bos
 # Install Utilities
 scoop install extras/notion                 # Notion
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
+scoop install extras/tor-browser            # TOR Browser
 scoop install nonportable/protonvpn-np      # Proton VPN
 
 # Game Development Tools
