@@ -2,10 +2,8 @@
 
 # Add buckets
 scoop bucket add extras
-scoop bucket add main
 scoop bucket add nerd-fonts
 scoop bucket add versions
-scoop bucket add games
 scoop bucket add nonportable
 
 # Install Font
@@ -36,7 +34,6 @@ scoop install extras/chatty                 # Chatty (https://github.com/BosErik
 
 # Entertainment
 scoop install versions/steam                # Steam
-scoop install games/epic-games-launcher     # Epic Games
 scoop install extras/vlc                    # VLC
 scoop install extras/discord                # Discord
 scoop install extras/youtube-music          # YouTube Music (https://github.com/BosEriko/youtube-music)
