@@ -21,12 +21,6 @@ scoop install extras/switcheroo             # Switcheroo (https://github.com/Bos
 # Install Utilities
 scoop install extras/notion                 # Notion
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
-scoop install extras/tor-browser            # TOR Browser
-scoop install nonportable/protonvpn-np      # Proton VPN
-
-# Game Development Tools
-scoop install extras/blender                # Blender
-scoop install extras/godot                  # Godot
 
 # Install Stream Tools
 scoop install extras/obs-studio             # OBS (https://github.com/BosEriko/obs)
@@ -35,5 +29,4 @@ scoop install extras/chatty                 # Chatty (https://github.com/BosErik
 # Entertainment
 scoop install versions/steam                # Steam
 scoop install extras/vlc                    # VLC
-scoop install extras/discord                # Discord
 scoop install extras/youtube-music          # YouTube Music (https://github.com/BosEriko/youtube-music)
