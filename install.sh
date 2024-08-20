@@ -22,9 +22,6 @@ scoop install extras/switcheroo             # Switcheroo (https://github.com/Bos
 scoop install extras/notion                 # Notion
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
 
-# Game Development Tools
-scoop install extras/blender                # Blender
-
 # Install Stream Tools
 scoop install extras/obs-studio             # OBS (https://github.com/BosEriko/obs)
 scoop install extras/chatty                 # Chatty (https://github.com/BosEriko/chatty)
