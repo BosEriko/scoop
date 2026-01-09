@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Add Git (Scoop Prerequisite)
+scoop install git
+
 # Add buckets
 scoop bucket add extras
 scoop bucket add nerd-fonts
@@ -11,7 +14,6 @@ scoop install nerd-fonts/JetBrainsMono-NF-Mono
 scoop install nerd-fonts/FiraCode
 
 # Install Work Tools
-scoop install git                           # Git
 scoop install extras/glazewm                # GlazeWM (https://github.com/BosEriko/glaze)
 scoop install extras/vscode                 # Visual Studio Code (https://github.com/BosEriko/vs)
 scoop install extras/powertoys              # PowerToys (https://github.com/BosEriko/powertoys)
