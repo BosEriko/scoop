@@ -19,7 +19,6 @@ scoop install extras/vscode                 # Visual Studio Code (https://github
 scoop install extras/powertoys              # PowerToys (https://github.com/BosEriko/powertoys)
 
 # Install Utilities
-scoop install extras/notion                 # Notion
 scoop install extras/vivaldi                # Vivaldi (https://github.com/BosEriko/vivaldi)
 
 # Install Stream Tools
@@ -28,4 +27,3 @@ scoop install extras/obs-studio             # OBS (https://github.com/BosEriko/o
 # Entertainment
 scoop install versions/steam                # Steam
 scoop install extras/vlc                    # VLC
-scoop install extras/youtube-music          # YouTube Music (https://github.com/BosEriko/youtube-music)
